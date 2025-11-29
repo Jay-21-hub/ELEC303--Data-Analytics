@@ -25,3 +25,6 @@ Online Assignment-Linear Regression:
 
 Project 4:
  [Linear Regression](https://github.com/Jay-21-hub/ELEC303--Data-Analytics/blob/main/PROJECT4_LINEAR_REGRESSION.ipynb)
+
+Project 5:
+ [Machine Learning](https://github.com/Jay-21-hub/ELEC303--Data-Analytics/blob/main/Machine_Learning_Exercise1.ipynb)
