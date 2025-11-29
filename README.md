@@ -13,3 +13,16 @@ ACTIVITY 2:
   The topic will explore about UK Accident 
 
 [Activity 2](https://github.com/Jay-21-hub/ELEC303--Data-Analytics/blob/main/Activity_2.ipynb)
+
+Project 3: 
+
+ Description:
+  Dengue Cases in the Philippines (2016–2020) Linear Regression
+ [Project 3](https://github.com/Jay-21-hub/ELEC03---ACT.-1_FINALS/blob/main/Untitled.ipynb)
+
+Online Assignment-Linear Regression:
+ [Online Assignment](https://github.com/Jay-21-hub/ELEC03---Data_Analytics-Diosay_Jaynard_SalaryPrediction.ipynb/blob/main/LinearRegression_Assignment.ipynb)
+
+Project 4:
+
+ Description: 
