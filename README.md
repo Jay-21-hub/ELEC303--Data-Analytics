@@ -28,3 +28,6 @@ Project 4:
 
 Project 5:
  [Machine Learning](https://github.com/Jay-21-hub/ELEC303--Data-Analytics/blob/main/Machine_Learning_Exercise1.ipynb)
+
+Project 6:
+[Titanic Survavility](https://github.com/Jay-21-hub/ELEC303--Data-Analytics/blob/main/TitanicSurvavility_MachineLearning.ipynb)
