@@ -24,5 +24,4 @@ Online Assignment-Linear Regression:
  [Online Assignment](https://github.com/Jay-21-hub/ELEC03---Data_Analytics-Diosay_Jaynard_SalaryPrediction.ipynb/blob/main/LinearRegression_Assignment.ipynb)
 
 Project 4:
-
- Description: 
+ [Linear Regression](https://github.com/Jay-21-hub/ELEC303--Data-Analytics/blob/main/PROJECT4_LINEAR_REGRESSION.ipynb)
